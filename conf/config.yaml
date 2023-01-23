@@ -1,0 +1,3 @@
+OPENAI_API_KEY: api_key
+executable_path: /path/to/chromedriver
+user_data_dir: /path/to/user_data
