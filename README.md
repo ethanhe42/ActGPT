@@ -2,6 +2,8 @@
 
 blog post: https://yihui.dev/actgpt
 
+demo: https://twitter.com/he_yi_hui/status/1617328366876786688
+
 config api key, chromedriver path and user data path in `conf/config.yaml`.
 
 - API key is from OpenAI. You can get it from https://beta.openai.com/
