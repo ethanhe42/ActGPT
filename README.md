@@ -61,3 +61,7 @@ find all textboxes. find one from them that is visible
 click on the textbox
 type in "ChatGPT" and enter
 ```
+
+generating the code from one sentence high level instruction:
+
+![image](https://user-images.githubusercontent.com/10027339/227753195-739efe81-a783-4c4a-89ec-dc614a055ff6.png)
